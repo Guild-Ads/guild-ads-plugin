@@ -1,0 +1,20 @@
+{
+  "name": "guild-ads",
+  "interface": {
+    "displayName": "Guild Ads"
+  },
+  "plugins": [
+    {
+      "name": "guild-ads",
+      "source": {
+        "source": "local",
+        "path": "./plugins/guild-ads"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Coding"
+    }
+  ]
+}

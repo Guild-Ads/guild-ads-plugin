@@ -1,0 +1,13 @@
+{
+  "name": "guild-ads",
+  "owner": {
+    "name": "Tyler Hillsman"
+  },
+  "description": "Guild Ads agent plugin — set up a publisher or advertiser account on the Guild Ads ad network from your editor.",
+  "plugins": [
+    {
+      "name": "guild-ads",
+      "source": "./plugins/guild-ads"
+    }
+  ]
+}

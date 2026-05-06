@@ -1,0 +1,22 @@
+{
+  "name": "guild-ads",
+  "version": "0.1.0",
+  "description": "Skills for setting up a Guild Ads account — install the CLI, sign up, register an app, generate an SDK token, integrate the SDK, create a campaign, or book an ad slot, all from your editor.",
+  "author": {
+    "name": "Tyler Hillsman",
+    "url": "https://github.com/thillsman"
+  },
+  "homepage": "https://guildads.com",
+  "repository": "https://github.com/Guild-Ads/guild-ads-plugin",
+  "license": "MIT",
+  "keywords": [
+    "guild-ads",
+    "advertising",
+    "ad-network",
+    "ios",
+    "swift",
+    "monetization",
+    "indie-apps"
+  ],
+  "skills": "./skills/"
+}
